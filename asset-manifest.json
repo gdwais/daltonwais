@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.db4781e7.chunk.js",
-    "main.js.map": "/static/js/main.db4781e7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f4ed547d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f4ed547d.js.map",
-    "static/js/2.082b0823.chunk.js": "/static/js/2.082b0823.chunk.js",
-    "static/js/2.082b0823.chunk.js.map": "/static/js/2.082b0823.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.06950aa0da8b8fec8acb46a73d7cbdf2.js": "/precache-manifest.06950aa0da8b8fec8acb46a73d7cbdf2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/dalton-wais/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dalton-wais/static/js/main.e1e86f21.chunk.js",
+    "main.js.map": "/dalton-wais/static/js/main.e1e86f21.chunk.js.map",
+    "runtime-main.js": "/dalton-wais/static/js/runtime-main.06b12f11.js",
+    "runtime-main.js.map": "/dalton-wais/static/js/runtime-main.06b12f11.js.map",
+    "static/js/2.082b0823.chunk.js": "/dalton-wais/static/js/2.082b0823.chunk.js",
+    "static/js/2.082b0823.chunk.js.map": "/dalton-wais/static/js/2.082b0823.chunk.js.map",
+    "index.html": "/dalton-wais/index.html",
+    "precache-manifest.d29321608ed55159beb3813982b96120.js": "/dalton-wais/precache-manifest.d29321608ed55159beb3813982b96120.js",
+    "service-worker.js": "/dalton-wais/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dalton-wais/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/dalton-wais/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4ed547d.js",
+    "static/js/runtime-main.06b12f11.js",
     "static/js/2.082b0823.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.db4781e7.chunk.js"
+    "static/js/main.e1e86f21.chunk.js"
   ]
 }
