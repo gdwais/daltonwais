@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gdwais.github.io/static/css/main.b100e6da.chunk.css",
-    "main.js": "/gdwais.github.io/static/js/main.689835e1.chunk.js",
-    "main.js.map": "/gdwais.github.io/static/js/main.689835e1.chunk.js.map",
-    "runtime-main.js": "/gdwais.github.io/static/js/runtime-main.6baa4006.js",
-    "runtime-main.js.map": "/gdwais.github.io/static/js/runtime-main.6baa4006.js.map",
-    "static/js/2.3c0afbca.chunk.js": "/gdwais.github.io/static/js/2.3c0afbca.chunk.js",
-    "static/js/2.3c0afbca.chunk.js.map": "/gdwais.github.io/static/js/2.3c0afbca.chunk.js.map",
-    "index.html": "/gdwais.github.io/index.html",
-    "precache-manifest.9cd133da4a8d4d64614b57a97cce619d.js": "/gdwais.github.io/precache-manifest.9cd133da4a8d4d64614b57a97cce619d.js",
-    "service-worker.js": "/gdwais.github.io/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/gdwais.github.io/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/gdwais.github.io/static/media/logo.25bf045c.svg"
+    "main.css": "/gdwais/gdwais.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gdwais/gdwais.github.io/static/js/main.b3f10439.chunk.js",
+    "main.js.map": "/gdwais/gdwais.github.io/static/js/main.b3f10439.chunk.js.map",
+    "runtime-main.js": "/gdwais/gdwais.github.io/static/js/runtime-main.140a382d.js",
+    "runtime-main.js.map": "/gdwais/gdwais.github.io/static/js/runtime-main.140a382d.js.map",
+    "static/js/2.3c0afbca.chunk.js": "/gdwais/gdwais.github.io/static/js/2.3c0afbca.chunk.js",
+    "static/js/2.3c0afbca.chunk.js.map": "/gdwais/gdwais.github.io/static/js/2.3c0afbca.chunk.js.map",
+    "index.html": "/gdwais/gdwais.github.io/index.html",
+    "precache-manifest.e249f2b5a589a0c4d21faffd46714149.js": "/gdwais/gdwais.github.io/precache-manifest.e249f2b5a589a0c4d21faffd46714149.js",
+    "service-worker.js": "/gdwais/gdwais.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gdwais/gdwais.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/gdwais/gdwais.github.io/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6baa4006.js",
+    "static/js/runtime-main.140a382d.js",
     "static/js/2.3c0afbca.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.689835e1.chunk.js"
+    "static/js/main.b3f10439.chunk.js"
   ]
 }
