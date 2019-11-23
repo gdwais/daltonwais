@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gdwais.github.io/static/css/main.b100e6da.chunk.css",
-    "main.js": "/gdwais.github.io/static/js/main.689835e1.chunk.js",
-    "main.js.map": "/gdwais.github.io/static/js/main.689835e1.chunk.js.map",
-    "runtime-main.js": "/gdwais.github.io/static/js/runtime-main.6baa4006.js",
-    "runtime-main.js.map": "/gdwais.github.io/static/js/runtime-main.6baa4006.js.map",
-    "static/js/2.3c0afbca.chunk.js": "/gdwais.github.io/static/js/2.3c0afbca.chunk.js",
-    "static/js/2.3c0afbca.chunk.js.map": "/gdwais.github.io/static/js/2.3c0afbca.chunk.js.map",
-    "index.html": "/gdwais.github.io/index.html",
-    "precache-manifest.9cd133da4a8d4d64614b57a97cce619d.js": "/gdwais.github.io/precache-manifest.9cd133da4a8d4d64614b57a97cce619d.js",
-    "service-worker.js": "/gdwais.github.io/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/gdwais.github.io/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/gdwais.github.io/static/media/logo.25bf045c.svg"
+    "main.css": "/static/css/main.b100e6da.chunk.css",
+    "main.js": "/static/js/main.63de11c1.chunk.js",
+    "main.js.map": "/static/js/main.63de11c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03e3c97f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03e3c97f.js.map",
+    "static/js/2.3c0afbca.chunk.js": "/static/js/2.3c0afbca.chunk.js",
+    "static/js/2.3c0afbca.chunk.js.map": "/static/js/2.3c0afbca.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a0d91aa4bbd188e6b0293add67ed65fd.js": "/precache-manifest.a0d91aa4bbd188e6b0293add67ed65fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6baa4006.js",
+    "static/js/runtime-main.03e3c97f.js",
     "static/js/2.3c0afbca.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.689835e1.chunk.js"
+    "static/js/main.63de11c1.chunk.js"
   ]
 }
