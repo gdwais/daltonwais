@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import * as pkg from '../package.json';
 
 function App() {
   return (
@@ -8,8 +9,9 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          <code>dalton wais</code>.
+          <code>{"<"}dalton wais{">"}</code>
         </p>
+        
 {/*         
         <a
           className="App-link"
@@ -20,6 +22,11 @@ function App() {
           Learn React
         </a> */}
       </header>
+      <footer className="App-footer">
+      <p>
+          version: { pkg.version }
+        </p>
+      </footer>
     </div>
   );
 }
