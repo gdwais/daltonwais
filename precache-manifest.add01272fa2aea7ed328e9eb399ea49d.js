@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74a106a5dc43e680112e9d26f7f554d3",
+    "revision": "1059e1e4aff9d6c19ed48407c433189c",
     "url": "/daltonwais/index.html"
   },
   {
-    "revision": "64bceeec7d77cb783253",
+    "revision": "dd8f9a9d4977eb67cf87",
     "url": "/daltonwais/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "3f432961297468181d2a",
-    "url": "/daltonwais/static/js/2.3c0afbca.chunk.js"
+    "revision": "4d026abd69cea6e69b06",
+    "url": "/daltonwais/static/js/2.95a9a9be.chunk.js"
   },
   {
-    "revision": "64bceeec7d77cb783253",
-    "url": "/daltonwais/static/js/main.45f2d205.chunk.js"
+    "revision": "dd8f9a9d4977eb67cf87",
+    "url": "/daltonwais/static/js/main.f4dc4617.chunk.js"
   },
   {
     "revision": "2f9d054341840ea49158",

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/daltonwais/static/css/main.b100e6da.chunk.css",
-    "main.js": "/daltonwais/static/js/main.45f2d205.chunk.js",
-    "main.js.map": "/daltonwais/static/js/main.45f2d205.chunk.js.map",
+    "main.js": "/daltonwais/static/js/main.f4dc4617.chunk.js",
+    "main.js.map": "/daltonwais/static/js/main.f4dc4617.chunk.js.map",
     "runtime-main.js": "/daltonwais/static/js/runtime-main.4a92175d.js",
     "runtime-main.js.map": "/daltonwais/static/js/runtime-main.4a92175d.js.map",
-    "static/js/2.3c0afbca.chunk.js": "/daltonwais/static/js/2.3c0afbca.chunk.js",
-    "static/js/2.3c0afbca.chunk.js.map": "/daltonwais/static/js/2.3c0afbca.chunk.js.map",
+    "static/js/2.95a9a9be.chunk.js": "/daltonwais/static/js/2.95a9a9be.chunk.js",
+    "static/js/2.95a9a9be.chunk.js.map": "/daltonwais/static/js/2.95a9a9be.chunk.js.map",
     "index.html": "/daltonwais/index.html",
-    "precache-manifest.05df5c12021b441f2fae93304adb4931.js": "/daltonwais/precache-manifest.05df5c12021b441f2fae93304adb4931.js",
+    "precache-manifest.add01272fa2aea7ed328e9eb399ea49d.js": "/daltonwais/precache-manifest.add01272fa2aea7ed328e9eb399ea49d.js",
     "service-worker.js": "/daltonwais/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/daltonwais/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/daltonwais/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a92175d.js",
-    "static/js/2.3c0afbca.chunk.js",
+    "static/js/2.95a9a9be.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.45f2d205.chunk.js"
+    "static/js/main.f4dc4617.chunk.js"
   ]
 }
