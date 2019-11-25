@@ -2,41 +2,37 @@ import React, { Component } from 'react';
 import ReactMarkdown from 'react-markdown';
 
 class Content extends Component {
+  
+constructor(props) {
+  super(props);
+  this.state = { name: this.props.name, markdown: null }
+}
 
-    constructor(props) {
-        super(props);
-        this.setState({
-            title: props.title || "",
-            name: props.name || "",
-            markdown: null
-        })
-    }
-
-    async componentDidMount() {
-        const markdownPath = require(`../markdown/${this.state.name}.md`);
-        const response = await fetch(markdownPath);
-        let text = await response.text();
-        this.setState({
-          markdown: text
-        });
-    }
+  async componentDidMount() {
+    const markdownPath = require(`../markdown/${this.state.name}.md`);
+    const response = await fetch(markdownPath);
+    let text = await response.text();
+    this.setState({
+      markdown: text
+    });
+  }
 
   render() {
-      const {title, markdown} = this.state;
+
+    const { markdown } = this.state;
+
     return (
-      <section id="contact">
-         <div className="row section-head">
-            <div className="twelve columns">
-                <p className="lead"><code>{title}</code></p>
-            </div>
+      <section id={this.state.name}>
+      <div className="row">
+         <div className="twelve columns main-col">
+            <ReactMarkdown source={markdown} />
          </div>
-         <div className="row">
-            <div className="twelve columns">
-             <div className="twelve columns main-col">
-                <ReactMarkdown source={markdown} />
-        </div>
-        </div>
       </div>
+
+      <p className="scrolldown">
+         <a className="smoothscroll" href="#contact"><i className="icon-down-circle"></i></a>
+      </p>
+
    </section>
     );
   }

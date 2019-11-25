@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import Header from './components/Header';
-import About from './components/About';
+import Content from './components/Content';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Content from './components/Content';
+
 
 import './App.css';
 
@@ -20,7 +20,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <Content title="this is the about section" name="about" />
+        <Content name="about" />
         <Contact />
         <Footer />
       </div>

@@ -20,7 +20,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h3><code>{"<"} dalton wais {">"}</code></h3>
-            <h4><code>Denver based developer, consultant & curious human</code></h4>
+            <h4><code>Colorado based developer, consultant & curious human</code></h4>
          </div>
       </div>
 
