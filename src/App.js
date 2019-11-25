@@ -4,6 +4,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Content from './components/Content';
 
 import './App.css';
 
@@ -19,7 +20,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <About />
+        <Content title="this is the about section" name="about" />
         <Contact />
         <Footer />
       </div>

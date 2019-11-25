@@ -9,9 +9,7 @@ class Contact extends Component {
          <div className="row section-head">
 
             <div className="ten columns">
-
                   <p className="lead"><code>I am available for consultation and freelance development services. <br/> Drop me a note and let's talk!</code></p>
-
             </div>
 
          </div>
