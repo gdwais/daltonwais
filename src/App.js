@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import Header from './components/Header';
 import Content from './components/Content';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 
@@ -21,7 +20,7 @@ class App extends Component {
       <div className="App">
         <Header />
         <Content name="about" />
-        <Contact />
+        <Content name="contact"/>
         <Footer />
       </div>
     );

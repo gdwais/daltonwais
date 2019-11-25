@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Contact extends Component {
+   
   render() {
 
     return (
@@ -8,7 +9,7 @@ class Contact extends Component {
 
          <div className="row section-head">
 
-            <div className="ten columns">
+            <div className="twelve columns">
                   <p className="lead"><code>I am available for consultation and freelance development services. <br/> Drop me a note and let's talk!</code></p>
             </div>
 
