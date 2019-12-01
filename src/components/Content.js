@@ -5,7 +5,9 @@ class Content extends Component {
   
 constructor(props) {
   super(props);
-  this.state = { name: this.props.name, markdown: null }
+  this.state = { 
+    name: this.props.name, 
+    markdown: null }
 }
 
   async componentDidMount() {

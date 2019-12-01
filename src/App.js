@@ -21,6 +21,7 @@ class App extends Component {
         <Header />
         <Content name="about" />
         <Content name="contact"/>
+        <Content name="this_site"/>
         <Footer />
       </div>
     );
