@@ -10,4 +10,3 @@ Docker & Kubernetes
 ```
 
 
-This is a simple single page application build using [React](https://reactjs.org/)
