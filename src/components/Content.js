@@ -27,7 +27,13 @@ constructor(props) {
       <section id={this.state.name}>
       <div className="row">
          <div className="twelve columns main-col">
-            <ReactMarkdown source={markdown} />
+           
+      <div className="row banner">
+         <div className="banner-text">
+          <ReactMarkdown source={markdown} />
+         </div>
+      </div>
+            
          </div>
       </div>
    </section>
